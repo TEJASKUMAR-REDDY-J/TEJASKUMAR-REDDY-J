@@ -56,7 +56,7 @@ ________________________________________________________________________________
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,vscode,github,tensorflow,opencv,matlab,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,c,firebase,blender,autocad,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,firebase,blender,autocad,arduino,notion,postgres,pycharm,dart" /><br>
 </div>
 
 <br/>
