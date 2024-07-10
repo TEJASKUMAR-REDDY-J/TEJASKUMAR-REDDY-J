@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TEJASKUMAR-REDDY-J.TEJASKUMAR-REDDY-J" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy+Matey+!;+I'm+Tejaskumar+Reddy+J+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy+Matey+!;+I'm+Tejaskumar+Reddy+J+😎
++!;" />
 </h1>
 
 <h3 align="center">AI and Robotics enthusiast with a zest for futuristic fun! 🚀🤖 🇨🇦</h3>
@@ -10,9 +11,11 @@
 
 <div align="center">
  
- 🎓 Education: Student at PES University, Class of 2027
+ 🎓 **Education**: B.tech ECE, PES University, 27'
 
- 💡 Technical Skills:
+__________________________________________________________________________________________________________________________________________________
+
+ 💡 **Technical Skills**:
 
 -Tensorflow(LSTM, NLP, Image Processing)
 
@@ -22,7 +25,9 @@
 
 -OpenCV
 
- 📊 Research Projects:
+___________________________________________________________________________________________________________________________________________________
+
+ 📊 **Research Projects**:
 
 🌾 Exotic Crop Variety Analysis: Using satellite imagery to evaluate NDVI, temperature, and moisture for recommending optimal crop varieties.
 
@@ -30,9 +35,9 @@
 
 ____________________________________________________________________________________________________________________________________________________
 
-🏆 Hackathon Participation: Participated in a college hackathon. 
+🏆 Hackathon Participation: Participated in  Arithemania 3.0(Shunya-PESU). 
  
-🤖 Professional Societies: Active member of IEEE CS and IEEE RAS societies.
+🤖 Professional Societies: Active member of **IEEE CS** and **IEEE RAS** societies.
  
 🚀 Passions: AI tool development, exploring development frameworks, and robotics. 
  </div>
@@ -48,7 +53,7 @@ ________________________________________________________________________________
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ **Languages-Frameworks-Tools** ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,vscode,github,figma,git,r" />
