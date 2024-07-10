@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TEJASKUMAR-REDDY-J.TEJASKUMAR-REDDY-J" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy+Matey+!;+I'm+Tejaskumar+Reddy+J+😎+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ahoy+Matey+!;+I'm+Tejaskumar+Reddy+J+!;" />
 </h1>
 
-<h3 align="center">AI and Robotics enthusiast with a zest for futuristic fun! 🚀🤖 🇨🇦</h3>
+<h3 align="center">AI and Robotics enthusiast with a zest for futuristic fun! 🚀🤖</h3>
 
 <br/>
 
