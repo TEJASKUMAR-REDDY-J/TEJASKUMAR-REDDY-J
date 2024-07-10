@@ -49,10 +49,11 @@
 <hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="GitHub Contribution Grid" src="https://github.com/TEJASKUMAR-REDDY-J/TEJASKUMAR-REDDY-J/graphs/contributors"/>
+  <img alt="GitHub Contribution Grid" src="https://github.com/users/TEJASKUMAR-REDDY-J/contributions"/>
 </div>
+
 
   <br/><br/><br/>
 </div>
