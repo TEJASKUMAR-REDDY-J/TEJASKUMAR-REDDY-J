@@ -55,7 +55,7 @@ ________________________________________________________________________________
 <h2 align="center">⚒️ **Languages-Frameworks-Tools** ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=flutter,vscode,github,tensorflow,opencv,matlab,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=python,c,firebase,dart" /><br>
 </div>
 
