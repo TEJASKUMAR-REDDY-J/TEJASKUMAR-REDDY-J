@@ -13,17 +13,25 @@
  🎓 Education: Student at PES University, Class of 2027
 
  💡 Technical Skills:
+ 
       -Tensorflow(LSTM, NLP, Image Processing)
+      
       -Flutter UI development
+      
       -Firebase backend
+      
       -OpenCV
 
  📊 Research Projects:
+        
         🌾 Exotic Crop Variety Analysis: Using satellite imagery to evaluate NDVI, temperature, and moisture for recommending optimal crop varieties.
+        
         🧬 Leukemia Classification: Comparing machine learning and deep learning models for acute/chronic and lymphoid/myeloid leukemia classification.
 
  🏆 Hackathon Participation: Participated in a college hackathon. 
+ 
  🤖 Professional Societies: Active member of IEEE CS and IEEE RAS societies.
+ 
  🚀 Passions: AI tool development, exploring development frameworks, and robotics. 
  </div>
  
