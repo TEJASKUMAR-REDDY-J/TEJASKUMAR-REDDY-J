@@ -49,8 +49,11 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="GitHub Contribution Grid" src="https://github.com/TEJASKUMAR-REDDY-J/TEJASKUMAR-REDDY-J/graphs/contributors"/>
+</div>
+
   <br/><br/><br/>
 </div>
 <br/>
